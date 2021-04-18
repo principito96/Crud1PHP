@@ -1,0 +1,17 @@
+{
+    "name": "juanjose/trabajo1crud",
+    "description": "Primer trabajo recuperacion pdo",
+    "type": "project",
+    "license": "GNU",
+    "require": {
+        "fakerphp/faker": "^1.14"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    }
+}
